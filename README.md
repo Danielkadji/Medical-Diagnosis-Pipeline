@@ -15,4 +15,5 @@ This project presents a comprehensive Machine Learning pipeline aimed at binary 
 - Python 3.x
 - Libraries: Pandas, NumPy, Scikit-Learn, Imblearn, CatBoost, XGBoost, Matplotlib, Seaborn, Boruta, mRMR
 
-
+## Important
+- you maye plug in data as you wish and modify pre processing to find the best model. This is can still be built upon
